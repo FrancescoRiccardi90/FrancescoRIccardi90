@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there my name is Francesco Riccardi
+
  🔭 I’m currently working as a student at D.C.I. <br>
  🌱 I’m currently learning css and htlm and life.<br>
 💬 Ask me about advice if you have problems or are stuck in a videogame, or maybe a culinary recipe!<br>
