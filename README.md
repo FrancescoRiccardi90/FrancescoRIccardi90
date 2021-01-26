@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working as a student at D.C.I.
+ 🔭 I’m currently working as a student at D.C.I. <br>
  🌱 I’m currently learning css and htlm and life.
 💬 Ask me about advice if you have problems or are stuck in a videogame, or maybe a culinary recipe!
 📫 How to reach me: write me at plecialbliguel@gmail.com, i dont have any social media, sorry!
